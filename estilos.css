@@ -9,7 +9,7 @@ body{
           background: url('f.jpg');
           background-color:#000000;
           background-attachment:fixed;
-          background-size: conter;
+          background-size: cover;
           margin:0;
           padding:0;
  
@@ -18,7 +18,7 @@ body{
 
 @media only screen and (max-width: 600px) {
   body {
-    background-color: lightblue;
+    background: url('g.jpg');
   }
 }
 
