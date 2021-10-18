@@ -4,25 +4,26 @@ html{
             color: green;
         }
 
-
         
 body{
-
-          width: 100%;
-          height: 400px;
-          background-image: url('f.jpg');
-          background-repeat: no-repeat;
-          background-size: contain;
-          border: 1px solid red;
-
           background: url('f.jpg');
           background-color:#000000;
+          background-attachment:fixed;
+          background-size: conter;
           margin:0;
           padding:0;
-
-          
+ 
     
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+
+
 
            
 ul{
