@@ -5,17 +5,28 @@ html{
         }
 
 .container {
-  display: flex;
-}
-
-.item {
-  flex: 1;
+  column-count: 3;
 } 
         
 body{
+
+
+
           background: url('f.jpg');
+
+            @media (min-width: 550px) {
+              .f {
+                 background-image: url('f.jpg');
+                      }
+                                      }
+           @media (min-width: 1000px) {
+              .f {
+                background-image: url('f.jpg');
+                      }
+                                      }
           background-color:#000000;
           background-attachment:fixed;
+          background-size: cover;
           margin:0;
           padding:0;
  
