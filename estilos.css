@@ -8,22 +8,19 @@ html{
         
 body{
 
-
+          width: 100%;
+          height: 400px;
+          background-image: url('f.jpg');
+          background-repeat: no-repeat;
+          background-size: contain;
+          border: 1px solid red;
 
           background: url('f.jpg');
           background-color:#000000;
           margin:0;
           padding:0;
 
-div {
-  width: 100%;
-  height: 400px;
-  background-image: url('f.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  border: 1px solid red;
-}
-           
+          
     
 }
 
