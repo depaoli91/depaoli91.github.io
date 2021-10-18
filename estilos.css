@@ -5,10 +5,7 @@ html{
         }
 
 
-img {
-  width: 100%;
-  height: auto;
-}
+
         
 body{
 
@@ -17,9 +14,8 @@ body{
           background: url('f.jpg');
           background-color:#000000;
           background-attachment:fixed;
-          margin:0;
-          padding:0;
- 
+          width: 100%;
+          height: auto;
     
 }
            
