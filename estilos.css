@@ -4,6 +4,9 @@ html{
             color: green;
         }
 
+.container {
+  column-count: 3;
+} 
         
 body{
           background: url('f.jpg');
