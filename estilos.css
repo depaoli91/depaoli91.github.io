@@ -5,7 +5,11 @@ html{
         }
 
 .container {
-  column-count: 3;
+  display: flex;
+}
+
+.item {
+  flex: 1;
 } 
         
 body{
