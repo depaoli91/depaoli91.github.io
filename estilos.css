@@ -5,7 +5,10 @@ html{
         }
 
 
-img {largura máxima: 100%; altura: automático; }
+img {
+  width: 100%;
+  height: auto;
+}
         
 body{
 
