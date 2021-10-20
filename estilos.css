@@ -1,76 +1,76 @@
 html{
-            color: green;
-        }
+  color: green;
+}
 
-        
+
 @media (max-width: 640px) {
 
-  body {
+body {
 
-    background: url('g.jpg');
-    background-attachment:fixed;
-    background-size: cover;
+background: url('g.jpg');
+background-attachment:fixed;
+background-size: cover;
 
-  }
+}
 
 ul{
-                 list-style-type: circle;
-  }
+       list-style-type: circle;
+}
 
 #wpp{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 405px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 405px;
+  }
 
 #instagram{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 564px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 564px;
+  }
 
 #Facebook{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 18px;
-                left: 714px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 18px;
+      left: 714px;
+  }
 
 #Linkedin{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 17px;
-                left: 872px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 17px;
+      left: 872px;
+  }
 
 .svg-icon {
-  width: 1em;
-  height: 1em;
+width: 1em;
+height: 1em;
 }
 
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: #4691f6;
+fill: #4691f6;
 }
 
 .svg-icon circle {
-  stroke: #4691f6;
-  stroke-width: 1;
+stroke: #4691f6;
+stroke-width: 1;
 }
 
 
@@ -80,68 +80,68 @@ ul{
 
 @media (max-width: 1007px) {
 
-  body {
-    background: url('i.jpg');
-  }
+body {
+background: url('i.jpg');
+}
 
 ul{
-                 list-style-type: circle;
-  }
+       list-style-type: circle;
+}
 
 #wpp{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 405px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 405px;
+  }
 
 #instagram{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 564px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 564px;
+  }
 
 #Facebook{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 18px;
-                left: 714px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 18px;
+      left: 714px;
+  }
 
 #Linkedin{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 17px;
-                left: 872px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 17px;
+      left: 872px;
+  }
 
 .svg-icon {
-  width: 1em;
-  height: 1em;
+width: 1em;
+height: 1em;
 }
 
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: #4691f6;
+fill: #4691f6;
 }
 
 .svg-icon circle {
-  stroke: #4691f6;
-  stroke-width: 1;
+stroke: #4691f6;
+stroke-width: 1;
 }
 
 
@@ -151,72 +151,71 @@ ul{
 
 @media (min-width: 1008px) {
 
-  body {
-    background: url('f.jpg');
-    background-attachment:fixed;
-    background-size: cover;
+body {
+background: url('f.jpg');
+background-attachment:fixed;
+background-size: cover;
 
-  }
+}
 
 ul{
-                 list-style-type: circle;
-  }
+       list-style-type: circle;
+}
 
 #wpp{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 405px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 405px;
+  }
 
 #instagram{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 30px;
-                left: 564px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30px;
+      left: 564px;
+  }
 
 #Facebook{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 18px;
-                left: 714px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 18px;
+      left: 714px;
+  }
 
 #Linkedin{
-                color: blue;
-                text-align: right;
-                font-size: 70px;
-                font-family: serif; 
-                position: absolute;
-                bottom: 17px;
-                left: 872px;
-            }
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 17px;
+      left: 872px;
+  }
 
 .svg-icon {
-  width: 1em;
-  height: 1em;
+width: 1em;
+height: 1em;
 }
 
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: #4691f6;
+fill: #4691f6;
 }
 
 .svg-icon circle {
-  stroke: #4691f6;
-  stroke-width: 1;
+stroke: #4691f6;
+stroke-width: 1;
 }
 
 }
-
