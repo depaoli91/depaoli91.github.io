@@ -5,11 +5,11 @@ html{
 
 @media (max-width: 640px) {
 	
-	<p> TESTE1<\p>
+	
 
    body {
 
-    background: url('g.jpg');
+    background:black;
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
@@ -93,9 +93,9 @@ stroke-width: 1;
 
 body {
   
-	<p> TESTE2<\p>
 
-    background: url('i.jpg');
+
+    background: red;
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
@@ -178,9 +178,8 @@ stroke-width: 1;
 
 body {
   
-	<p> TESTE3<\p>
 
-    background: url('f.jpg');
+    background: blue;
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
