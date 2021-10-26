@@ -1,7 +1,13 @@
-html{
-  color: green;
+
+/* ----------- GENERAL ----------*/
+
+html {
+font-size: 62.5%;
 }
 
+/* -----------------------------*/
+/* ----------- MEDIA ----------*/
+/* -----------------------------*/
 
 @media (max-width: 540px) {
 
@@ -19,7 +25,8 @@ html{
 
     color: black;
     text-align: center;
-    font-size: 40%;
+    
+     -size: 40%;
     font-family: serif; 
    
   }
@@ -27,7 +34,7 @@ html{
  #wpp{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -37,7 +44,7 @@ html{
  #instagram{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -47,7 +54,7 @@ html{
  #Facebook{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 18px;
@@ -57,7 +64,7 @@ html{
  #Linkedin{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 17px;
@@ -104,7 +111,7 @@ body {
 
   color: black;
   text-align: center;
-  font-size: 40%;
+  font-size: 1.4rem;
   font-family: serif; 
  
 }
@@ -112,7 +119,7 @@ body {
  #wpp{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -122,7 +129,7 @@ body {
  #instagram{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -132,7 +139,7 @@ body {
  #Facebook{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 18px;
@@ -142,7 +149,7 @@ body {
  #Linkedin{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 17px;
@@ -179,16 +186,14 @@ body {
     background-attachment: fixed; 
     background-repeat: no-repeat;
     background-position-y: center;
-
   
-   
 
 }
 #CABECALHO{
 
   color: black;
   text-align: center;
-  font-size: 40%;
+  font-size: 1.4rem;
   font-family: serif; 
  
  }
@@ -196,7 +201,7 @@ body {
  #wpp{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -206,7 +211,7 @@ body {
  #instagram{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 30px;
@@ -216,7 +221,7 @@ body {
  #Facebook{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 18px;
@@ -226,7 +231,7 @@ body {
  #Linkedin{
       color: blue;
       text-align: right;
-      font-size: 70px;
+      font-size: 1.4rem;
       font-family: serif; 
       position: absolute;
       bottom: 17px;
