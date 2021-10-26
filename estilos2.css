@@ -3,7 +3,7 @@ html{
 }
 
 
-@media (max-width: 640px) {
+@media (max-width: 540px) {
 
    body {
 
@@ -85,7 +85,7 @@ html{
 }
 
 
-@media (min-width:641 px) and (max-width: 1007px) {
+@media (min-width:541 px) and (max-width: 960px) {
 
 body {
   
@@ -170,7 +170,7 @@ body {
 }
 
 
-@media (min-width: 1008px) {
+@media (min-width: 961px) {
 
 body {
   
