@@ -5,17 +5,25 @@ html{
 
 @media (max-width: 640px) {
 
-body {
+   body {
 
-background: url('g.jpg');
-background-attachment:fixed;
+    background: url('g.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:100%,100%;
+    width:	80%;
+		max-width:	640px;
+		margin-left:	auto;
+    margin-right:	auto;
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+
+  
+   }
 
 
-}
-
-ul{
-       list-style-type: circle;
-}
 
 #wpp{
       color: blue;
@@ -78,15 +86,27 @@ stroke-width: 1;
 }
 
 
-@media (max-width: 1007px) {
+@media (min-width:641 px) and (max-width: 1007px) {
 
 body {
-background: url('i.jpg');
-}
+  
 
-ul{
-       list-style-type: circle;
-}
+    background: url('i.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:100%,100%;
+    width:	80%;
+		max-width:	1007px;
+		margin-left:	auto;
+    margin-right:	auto;
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+
+  
+   
+ }
 
 #wpp{
       color: blue;
@@ -152,9 +172,23 @@ stroke-width: 1;
 @media (min-width: 1008px) {
 
 body {
-background: url('f.jpg');
-background-attachment:fixed;
+  
 
+    background: url('f.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:100%,100%;
+    width:	80%;
+		min-width:	1008px;
+		margin-left:	auto;
+    margin-right:	auto;
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+
+  
+   
 
 }
 
