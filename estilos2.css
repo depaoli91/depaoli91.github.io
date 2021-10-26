@@ -9,7 +9,7 @@ html{
 
    body {
 
-    background-color:#000000;
+    background: url('g.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
@@ -95,7 +95,7 @@ body {
   
 
 
-    background: red;
+    background: url('g.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
@@ -179,7 +179,7 @@ stroke-width: 1;
 body {
   
 
-    background: blue;
+    background: url('g.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size:auto;
