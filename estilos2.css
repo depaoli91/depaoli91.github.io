@@ -37,8 +37,8 @@ html{
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10%;
-      left: 20%px;
+      bottom: 20%;
+      left: 40%px;
   }
 
 #instagram{
@@ -47,8 +47,8 @@ html{
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10px;
-      left: 30%px;
+      bottom: 20px;
+      left: 50%px;
   }
 
 #Linkedin{
@@ -57,8 +57,8 @@ html{
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10%;
-      left: 40%;
+      bottom: 20%;
+      left: 60%;
   }
 
 .svg-icon {
