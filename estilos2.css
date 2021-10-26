@@ -19,14 +19,19 @@ html{
 		line-height:	1.5;
 		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
 		color:	#3D3D3D;
-    
-
-  
+      
    }
 
+   #CABECALHO{
 
+    color: black;
+    text-align: center;
+    font-size: 70%;
+    font-family: serif; 
+   
+  }
 
-#wpp{
+ #wpp{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -36,7 +41,7 @@ html{
       left: 405px;
   }
 
-#instagram{
+ #instagram{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -46,7 +51,7 @@ html{
       left: 564px;
   }
 
-#Facebook{
+ #Facebook{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -56,7 +61,7 @@ html{
       left: 714px;
   }
 
-#Linkedin{
+ #Linkedin{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -66,21 +71,21 @@ html{
       left: 872px;
   }
 
-.svg-icon {
-width: 1em;
-height: 1em;
-}
+ .svg-icon {
+ width: 1em;
+ height: 1em;
+ }
 
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-fill: #4691f6;
-}
+ .svg-icon path,
+ .svg-icon polygon,
+ .svg-icon rect {
+ fill: #4691f6;
+ }
 
-.svg-icon circle {
-stroke: #4691f6;
-stroke-width: 1;
-}
+ .svg-icon circle {
+ stroke: #4691f6;
+ stroke-width: 1;
+ }
 
 
 
@@ -110,7 +115,16 @@ body {
    
  }
 
-#wpp{
+ #CABECALHO{
+
+  color: black;
+  text-align: center;
+  font-size: 70%;
+  font-family: serif; 
+ 
+}
+
+ #wpp{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -120,7 +134,7 @@ body {
       left: 405px;
   }
 
-#instagram{
+ #instagram{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -130,7 +144,7 @@ body {
       left: 564px;
   }
 
-#Facebook{
+ #Facebook{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -140,7 +154,7 @@ body {
       left: 714px;
   }
 
-#Linkedin{
+ #Linkedin{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -150,21 +164,21 @@ body {
       left: 872px;
   }
 
-.svg-icon {
-width: 1em;
-height: 1em;
-}
+ .svg-icon {
+ width: 1em;
+ height: 1em;
+ }
 
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-fill: #4691f6;
-}
+ .svg-icon path,
+ .svg-icon polygon,
+ .svg-icon rect {
+ fill: #4691f6;
+ }
 
-.svg-icon circle {
-stroke: #4691f6;
-stroke-width: 1;
-}
+ .svg-icon circle {
+ stroke: #4691f6;
+ stroke-width: 1;
+ }
 
 
 
@@ -194,12 +208,16 @@ body {
    
 
 }
+#CABECALHO{
 
-ul{
-       list-style-type: circle;
-}
+  color: black;
+  text-align: center;
+  font-size: 70%;
+  font-family: serif; 
+ 
+ }
 
-#wpp{
+ #wpp{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -209,7 +227,7 @@ ul{
       left: 405px;
   }
 
-#instagram{
+ #instagram{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -219,7 +237,7 @@ ul{
       left: 564px;
   }
 
-#Facebook{
+ #Facebook{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -229,7 +247,7 @@ ul{
       left: 714px;
   }
 
-#Linkedin{
+ #Linkedin{
       color: blue;
       text-align: right;
       font-size: 70px;
@@ -239,20 +257,20 @@ ul{
       left: 872px;
   }
 
-.svg-icon {
-width: 1em;
-height: 1em;
-}
+ .svg-icon {
+ width: 1em;
+ height: 1em;
+ }
 
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-fill: #4691f6;
-}
+ .svg-icon path,
+ .svg-icon polygon,
+ .svg-icon rect {
+ fill: #4691f6;
+ }
 
-.svg-icon circle {
-stroke: #4691f6;
-stroke-width: 1;
-}
+ .svg-icon circle {
+ stroke: #4691f6;
+ stroke-width: 1;
+ }
 
 }
