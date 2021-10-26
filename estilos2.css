@@ -8,17 +8,10 @@ html{
    body {
 
     background: url('../g.jpg');
-    background-attachment:fixed;
+    background-size: cover;
+    background-attachment: fixed; 
     background-repeat: no-repeat;
-    background-size:100%;
-    width:	80%;
-		max-width:	640px;
-		margin-left:	auto;
-    margin-right:	auto;
-    font-size:	16px;
-		line-height:	1.5;
-		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
-		color:	#3D3D3D;
+    background-position-y: center;
       
    }
 
@@ -98,18 +91,10 @@ body {
   
 
     background: url('../i.jpg');
-    background-attachment:fixed;
-    background-repeat: no-repeat;
-    background-size:100%;
-    width:	80%;
-		max-width:	1007px;
-		margin-left:	auto;
-    margin-right:	auto;
-    font-size:	16px;
-		line-height:	1.5;
-		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
-		color:	#3D3D3D;
     background-size: cover;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position-y: center;
 
   
    
@@ -190,19 +175,10 @@ body {
 body {
   
 
-    background: url('../f.jpg');
-    background-attachment:fixed;
-    background-repeat: no-repeat;
-    background-size:100%;
-    width:	80%;
-		min-width:	1008px;
-		margin-left:	auto;
-    margin-right:	auto;
-    font-size:	16px;
-		line-height:	1.5;
-		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
-		color:	#3D3D3D;
     background-size: cover;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-position-y: center;
 
   
    
