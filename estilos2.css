@@ -1,4 +1,7 @@
- 
+ html{
+  color: green;
+}
+
   @media (max-width: 540px) {
   
      body {
