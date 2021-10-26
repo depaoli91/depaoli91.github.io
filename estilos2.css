@@ -188,8 +188,8 @@ container {
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10%;
-      left: 20%px;
+      bottom: 5%;
+      left: 40%px;
   }
 
 #instagram{
@@ -198,8 +198,8 @@ container {
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10px;
-      left: 30%px;
+      bottom: 5px;
+      left: 50%px;
   }
 
 #Linkedin{
@@ -208,8 +208,8 @@ container {
       font-size: 70px;
       font-family: serif; 
       position: absolute;
-      bottom: 10%;
-      left: 40%;
+      bottom: 5%;
+      left: 60%;
   }
 .svg-icon {
 width: 1em;
