@@ -10,7 +10,7 @@ html{
     background: url('../g.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:100%;
     width:	80%;
 		max-width:	640px;
 		margin-left:	auto;
@@ -95,7 +95,7 @@ body {
     background: url('../i.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:100%;
     width:	80%;
 		max-width:	1007px;
 		margin-left:	auto;
@@ -179,7 +179,7 @@ body {
     background: url('../f.jpg');
     background-attachment:fixed;
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:100%;
     width:	80%;
 		min-width:	1008px;
 		margin-left:	auto;
