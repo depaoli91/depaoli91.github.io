@@ -38,9 +38,9 @@ html{
 #PO2{
       font-size: 12px;
       font-family: serif; 
-      position: absolute;
+      position: relative;
       bottom: 50%;
-      right:50%; 
+       
   }
 
 #wpp{
