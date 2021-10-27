@@ -19,6 +19,7 @@ html{
    body {
 	   
     background:  url('../f.jpg');
+    background-color:#A9A9A9;
     background-attachment:scroll;
     background-repeat: no-repeat;
     background-size:100%;
@@ -26,7 +27,7 @@ html{
 		line-height:	1.5;
 		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
 		color:	#3D3D3D;
-      
+     
    }
 	
 .img{
