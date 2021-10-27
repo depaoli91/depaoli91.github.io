@@ -15,13 +15,6 @@ html{
 
 @media (max-width: 640px) {
 
-.container {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background: #eee;
-} 
-	
 	
    body {
 
