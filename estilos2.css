@@ -29,6 +29,15 @@ html{
       
    }
 
+#PO1{
+      color: black;
+      text-align: center;
+      font-size: 90px;
+      font-family: serif; 
+      position: absolute;
+      top: 5%;
+      left:50%;
+  }
 
 #wpp{
       color: blue;
