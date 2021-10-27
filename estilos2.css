@@ -17,11 +17,11 @@ html{
 
 	
    body {
-
-    background: url('../f.jpg');
-    background-attachment:scroll;
-    background-repeat: no-repeat;
-    background-size:100%;
+	   
+    background-image:  url('../f.jpg');,url('../2.png');
+    background-attachment:scroll,scroll;
+    background-repeat: no-repeat, no-repeat;
+    background-size:100%, 100%;
     font-size:	16px;
 		line-height:	1.5;
 		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
