@@ -41,9 +41,35 @@ html{
         
   }
 	
-#PO2{
+#PO3{
 	
       background:  url('../3.jpg');
+      background-attachment:scroll;
+      background-repeat: no-repeat;
+      background-size:100%;
+      font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+             
+  }
+	
+#PO4{
+	
+      background:  url('../4.jpg');
+      background-attachment:scroll;
+      background-repeat: no-repeat;
+      background-size:100%;
+      font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+             
+  }
+	
+	#PO5{
+	
+      background:  url('../5.jpg');
       background-attachment:scroll;
       background-repeat: no-repeat;
       background-size:100%;
