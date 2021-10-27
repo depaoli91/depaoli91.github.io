@@ -12,14 +12,7 @@ html{
     background: #eee;
 } 
 
-#topo{
-      color: black;
-      text-align: center;
-      font-size: 70px;
-      font-family: serif; 
-      position: absolute;
-      bottom: 95%;
-  }
+
 @media (max-width: 640px) {
 
 .container {
