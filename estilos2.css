@@ -38,9 +38,10 @@ html{
 #PO2{
       font-size: 12px;
       font-family: serif; 
+      text-align: right;
       position: relative;
       bottom: 30%;
-      text-align: right;
+      
        
   }
 
