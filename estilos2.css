@@ -35,11 +35,11 @@ html{
         
   }
 	
-#PO2{
+.PO2{
       font-size: 12px;
       font-family: serif; 
       position: relative;
-      bottom: 20%;
+      bottom: 50%;
              
   }
 
