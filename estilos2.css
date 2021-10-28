@@ -68,7 +68,7 @@ html{
              
   }
 	
-	#PO5{
+#PO5{
 	
       background:  url('../5.jpg');
       background-attachment:scroll;
@@ -79,6 +79,15 @@ html{
 		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
 		color:	#3D3D3D;
              
+  }
+	
+#PO6{
+	
+      font-size:	19px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	 #FFFFFF;
+                font-weight: bold;
   }
 
 #wpp{
