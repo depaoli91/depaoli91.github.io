@@ -12,6 +12,7 @@ html{
     background: #eee;
 } 
 
+.p {padding: 20%;}
 
 @media (max-width: 640px) {
 
