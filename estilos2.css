@@ -31,18 +31,13 @@ html{
 	
     }
 	
-p {
-    white-space: pre-line;
-}
-
 	
 #PO1{
 	
       background-attachment:scroll;
       position: scroll;
       bottom: 50%;
-      
-                  
+                        
   }
 	
 #PO4{
