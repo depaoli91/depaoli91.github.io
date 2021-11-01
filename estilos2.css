@@ -4,7 +4,6 @@ html{
   color: green;
 	
 }
-
 .container {
     width: 100%;
     height: 100%;
@@ -12,17 +11,24 @@ html{
     background: #eee;
 } 
 
-
-
-
-
-
 @media (max-width: 640px) {
 	
-
+.relative-parent{
+   position: absolute;
+   top: 1px;
+   
+}
+.relative{
 	
+   position: relative;
+   top: 40px;
+   
+	
+}
+
    body {
-	   
+
+    background:  url('../eng.jpg');
     background:  url('../engenheira.jpg');
     background-color: #FFFFFF;
     background-attachment:scroll;
@@ -30,17 +36,6 @@ html{
     background-size:100%;
         
    }
-	
-.relative-parent{
-   position: relative;
-   top: 1px;
-   
-}
-
-.relative{
-	
-   position: relative;
-   top: 100px;
 	
 .img{
 	width:100%;
@@ -74,7 +69,6 @@ html{
                    
   }
 	
-
 #wpp{
       color: blue;
       text-align: right;
@@ -84,7 +78,6 @@ html{
       bottom: 2px;
       right:2px;
   }
-
 #instagram{
       color: blue;
       text-align: right;
@@ -94,22 +87,17 @@ html{
       bottom: 55px;
       right:2px;
   }
-
 .svg-icon {
 width: 1em;
 height: 1em;
 }
-
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
 fill: #4691f6;
 }
-
 .svg-icon circle {
 stroke: #4691f6;
 stroke-width: 1;
 }
-
-
 }
