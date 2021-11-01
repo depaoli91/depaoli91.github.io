@@ -4,6 +4,7 @@ html{
   color: green;
 	
 }
+
 .container {
     width: 100%;
     height: 100%;
@@ -11,43 +12,48 @@ html{
     background: #eee;
 } 
 
+.p {padding: 40%;}
+
 @media (max-width: 640px) {
-	
-.relative-parent{
-   position: absolute;
-   top: 1px;
-   
-}
-.relative{
-	
-   position: relative;
-   top: 40px;
-   
-	
-}
 
+	
    body {
-
-    background:  url('../engenheira.jpg');
+	   
+    background:  url('../4.jpg');
     background-color: #FFFFFF;
     background-attachment:scroll;
     background-repeat: no-repeat;
     background-size:100%;
-        
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+     
    }
 	
 .img{
 	width:100%;
 	
-    }
+	}
 	
-	
+
 #PO1{
+      font-size: 14px;
+      font-family: serif; 
+        
+  }
 	
+#PO3{
+	
+      background:  url('../3.jpg');
       background-attachment:scroll;
-      position: scroll;
-      bottom: 50%;
-                        
+      background-repeat: no-repeat;
+      background-size:100%;
+      font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#333333;
+             
   }
 	
 #PO4{
@@ -56,7 +62,11 @@ html{
       background-attachment:scroll;
       background-repeat: no-repeat;
       background-size:100%;
-                  
+      font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#333333;
+             
   }
 	
 #PO5{
@@ -65,9 +75,22 @@ html{
       background-attachment:scroll;
       background-repeat: no-repeat;
       background-size:100%;
-                   
+      font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#333333;
+             
   }
 	
+#PO6{
+	
+      font-size:	19px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color: #333333;
+                
+  }
+
 #wpp{
       color: blue;
       text-align: right;
@@ -77,6 +100,7 @@ html{
       bottom: 2px;
       right:2px;
   }
+
 #instagram{
       color: blue;
       text-align: right;
@@ -86,17 +110,137 @@ html{
       bottom: 55px;
       right:2px;
   }
+
 .svg-icon {
 width: 1em;
 height: 1em;
 }
+
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
 fill: #4691f6;
 }
+
 .svg-icon circle {
 stroke: #4691f6;
 stroke-width: 1;
 }
+
+
+}
+
+
+@media (min-width:641 px) and (max-width: 1007px) {
+
+
+   body {
+
+    background: url('../f.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+      
+   }
+
+#wpp{
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30%;
+      left: 20%;
+  }
+
+#instagram{
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30%;
+      left: 40%;
+  }
+
+
+.svg-icon {
+width: 1em;
+height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+fill: #4691f6;
+}
+
+.svg-icon circle {
+stroke: #4691f6;
+stroke-width: 1;
+}
+
+
+
+}
+
+
+@media (min-width: 1008px) {
+
+	
+   body {
+
+    background: url('../f.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-size:	16px;
+		line-height:	1.5;
+		font-family:	"Helvetica",	"Lucida	Grande",	sans-serif;
+		color:	#3D3D3D;
+      
+   }
+
+
+#wpp{
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30%;
+      left: 20%;
+  }
+
+#instagram{
+      color: blue;
+      text-align: right;
+      font-size: 70px;
+      font-family: serif; 
+      position: absolute;
+      bottom: 30%;
+      left: 40%;
+  }
+
+
+.svg-icon {
+width: 1em;
+height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+fill: #4691f6;
+}
+
+.svg-icon circle {
+stroke: #4691f6;
+stroke-width: 1;
+}
+
 }
