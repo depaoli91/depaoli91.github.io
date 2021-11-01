@@ -13,18 +13,7 @@ html{
 } 
 
 
-.relative-parent{
-   position: relative;
-   top: 1px;
-   
-}
 
-.relative{
-	
-   position: relative;
-   top: 100px;
-   
-	
 
 
 
@@ -41,6 +30,17 @@ html{
     background-size:100%;
         
    }
+	
+.relative-parent{
+   position: relative;
+   top: 1px;
+   
+}
+
+.relative{
+	
+   position: relative;
+   top: 100px;
 	
 .img{
 	width:100%;
