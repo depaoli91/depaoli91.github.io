@@ -12,6 +12,17 @@ html{
     background: #eee;
 } 
 
+.relative-parent{
+	
+}
+
+.relative{
+	
+   position: relative;
+   top: 40%;
+   
+	
+}
 
 @media (max-width: 640px) {
 
