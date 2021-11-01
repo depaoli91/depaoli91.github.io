@@ -38,7 +38,7 @@ html{
 	
 
 #PO1{
-        body{ background-image: url('../ft2.jpg'); }
+        background-image: url('../ft2.jpg'); 
         img { opacity : 1 }
         
   }
