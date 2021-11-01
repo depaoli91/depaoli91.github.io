@@ -17,13 +17,15 @@ html{
 @media (max-width: 640px) {
 	
 .relative-parent{
-	
+   position: absolute;
+   top: 1px;
+   
 }
 
 .relative{
 	
    position: relative;
-   top: 80px;
+   top: 60%;
    
 	
 }
