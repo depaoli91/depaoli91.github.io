@@ -38,8 +38,8 @@ html{
 	
 
 #PO1{
-      font-size: 14px;
-      font-family: serif; 
+        body{ background-image: url('../ft2.jpg'); }
+        img { opacity : 0.5 }
         
   }
 	
