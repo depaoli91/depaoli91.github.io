@@ -31,30 +31,9 @@ html{
 	
     }
 	
-#QUEBRA1{
-	
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	<br></br>
-	
-	
-                      
-  }
+p {
+    white-space: pre-line;
+}
 
 	
 #PO3{
