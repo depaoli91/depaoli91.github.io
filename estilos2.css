@@ -12,6 +12,10 @@ html{
     background: #eee;
 } 
 
+
+
+@media (max-width: 640px) {
+	
 .relative-parent{
 	
 }
@@ -23,8 +27,6 @@ html{
    
 	
 }
-
-@media (max-width: 640px) {
 
 	
    body {
