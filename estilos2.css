@@ -36,12 +36,12 @@ p {
 }
 
 	
-#PO3{
+#PO1{
 	
-      background:  url('../3.jpg');
       background-attachment:scroll;
-      background-repeat: no-repeat;
-      background-size:100%;
+      position: scroll;
+      bottom: 20%;
+      
                   
   }
 	
