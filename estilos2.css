@@ -14,9 +14,6 @@ html{
 
 .p {padding: 40%;}
 
-p{
-  text-indent: 5 px;
-}
 
 @media (max-width: 640px) {
 
