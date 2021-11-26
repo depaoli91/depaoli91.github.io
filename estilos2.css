@@ -20,6 +20,12 @@ html{
 	
    body {
 	   
+  p{
+   border-left;
+   border-right;
+   border-bottom;
+}
+	   
    
     background-color: #FFFFFF;
     background-attachment:scroll;
