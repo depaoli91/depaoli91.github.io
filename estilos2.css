@@ -20,12 +20,13 @@ html{
 	
    body {
 	   
-  p{
-   border-left;
-   border-right;
-   border-bottom;
+  #border    {
+  border-style: groove;
+  border-width: 1px;
+  border-color: coral;  
 }
 	   
+  
    
     background-color: #FFFFFF;
     background-attachment:scroll;
