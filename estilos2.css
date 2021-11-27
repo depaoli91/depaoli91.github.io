@@ -7,10 +7,9 @@
 } 
 
 .myButton {
-	box-shadow:inset 0px 0px 3px 0px #91b8b3;
+	box-shadow:inset 0px -1px 3px 0px #91b8b3;
 	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
 	background-color:#768d87;
-	border-radius:17px;
 	border:2px solid #566963;
 	display:inline-block;
 	cursor:pointer;
@@ -18,7 +17,7 @@
 	font-family:Times New Roman;
 	font-size:17px;
 	font-weight:bold;
-	padding:3px 76px;
+	padding:6px 76px;
 	text-decoration:none;
 	text-shadow:0px -1px 0px #2b665e;
 }
@@ -30,6 +29,7 @@
 	position:relative;
 	top:1px;
 }
+
 
 
 @media (max-width: 640px) {
