@@ -1,1 +1,1 @@
-alert("hello world")
+alert("OLA GOSTOSURA, CLIQUE PARA ENTRAR NO SEU SITE")
