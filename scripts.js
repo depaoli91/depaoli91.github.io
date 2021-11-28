@@ -1,6 +1,6 @@
 var largura = window.screen.width;
 
-new function1(largura){
+function PC(largura){
   
   if (largura > 1000 px) {
     
