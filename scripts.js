@@ -1,5 +1,7 @@
 alert("YV ENGENHARIA!"); 
 
+window.location.href = "http://www.devmedia.com.br";
+
 var largura = window.screen.width;
 
 function PC(largura){
