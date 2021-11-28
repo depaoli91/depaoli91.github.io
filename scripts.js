@@ -4,7 +4,7 @@ function PC(largura){
   
   if (largura > 1000) {
     
-    return window.location.href = "http://www.devmedia.com.br";
+    return window.alert("Hello world!"); 
     
 }
     
